@@ -7,6 +7,7 @@ I do NOT own the copyrights. Those belong to Microsoft.
 
 - 2019-12-15 fixed incorrect xmlns tag from portal. Should not properly display in the browsers.
 
+<div>
 <img title='Activity log.svg' src='icons\Activity log.svg' height='50'/>
 <img title='Advisor.svg' src='icons\Advisor.svg' height='50'/>
 <img title='Alerts.svg' src='icons\Alerts.svg' height='50'/>
@@ -291,3 +292,4 @@ I do NOT own the copyrights. Those belong to Microsoft.
 <img title='VM images (classic).svg' src='icons\VM images (classic).svg' height='50'/>
 <img title='Web Application Firewall policies (WAF).svg' src='icons\Web Application Firewall policies (WAF).svg' height='50'/>
 <img title='Windows 10 IoT Core Services.svg' src='icons\Windows 10 IoT Core Services.svg' height='50'/>
+</div>
