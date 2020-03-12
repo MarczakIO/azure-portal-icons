@@ -182,7 +182,7 @@ I do NOT own the copyrights. Those belong to Microsoft.
 <img title='Managed Identities.svg' src='icons\Managed Identities.svg' height='50'/>
 <img title='Management groups.svg' src='icons\Management groups.svg' height='50'/>
 <img title='Marketplace.svg' src='icons\Marketplace.svg' height='50'/>
-<img title='Media services.svg' src='icons\Media Services.svg' height='50'/>
+<img title='Media Services.svg' src='icons\Media services.svg' height='50'/>
 <img title='Mesh applications.svg' src='icons\Mesh applications.svg' height='50'/>
 <img title='Metrics.svg' src='icons\Metrics.svg' height='50'/>
 <img title='Monitor.svg' src='icons\Monitor.svg' height='50'/>
