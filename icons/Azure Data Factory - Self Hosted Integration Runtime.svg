@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="a" x1="37.882" y1="407.648" x2="37.882" y2="506.001" gradientTransform="translate(109 506.001) rotate(180)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#949494"/>
+      <stop offset="0.53" stop-color="#a2a2a2"/>
+      <stop offset="1" stop-color="#b3b3b3"/>
+    </linearGradient>
+    <linearGradient id="b" x1="65.118" y1="407.28" x2="65.118" y2="469.456" gradientTransform="translate(109 506.001) rotate(180)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0078d4"/>
+      <stop offset="0.16" stop-color="#1380da"/>
+      <stop offset="0.53" stop-color="#3c91e5"/>
+      <stop offset="0.82" stop-color="#559cec"/>
+      <stop offset="1" stop-color="#5ea0ef"/>
+    </linearGradient>
+    <linearGradient id="c" x1="81" y1="98.247" x2="81" y2="60.247" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5e9624"/>
+      <stop offset="0.254" stop-color="#619c25"/>
+      <stop offset="0.511" stop-color="#76bc2d"/>
+      <stop offset="0.91" stop-color="#86d633"/>
+      <stop offset="1" stop-color="#86d633"/>
+    </linearGradient>
+  </defs>
+  <title>AzureCloudIR</title>
+  <rect width="100" height="100" fill="none"/>
+  <path d="M42.235,3.353A3.353,3.353,0,0,1,45.588,0H96.765A3.292,3.292,0,0,1,100,3.353V95a3.353,3.353,0,0,1-3.352,3.353H45.588A3.411,3.411,0,0,1,42.235,95Z" fill="url(#a)"/>
+  <path d="M85.294,40.765H56.47c-.059,0-.119,0-.179,0A6.293,6.293,0,0,1,50,34.471h0c0-.04,0-.08,0-.12a6.294,6.294,0,0,1,6.468-6.115H85.294a6.265,6.265,0,0,1,0,12.529Z" fill="#003067"/>
+  <path d="M85.294,22.118H56.47l-.12,0A6.294,6.294,0,0,1,50,15.883h0c0-.06,0-.12,0-.179A6.294,6.294,0,0,1,56.47,9.589H85.294a6.265,6.265,0,0,1,0,12.529Z" fill="#003067"/>
+  <circle cx="84.941" cy="15.883" r="4.235" fill="#50e6ff"/>
+  <circle cx="84.941" cy="34.471" r="4.235" fill="#50e6ff"/>
+  <path d="M19.588,98.706h43.47A23.882,23.882,0,0,0,87.764,75.765,23.529,23.529,0,0,0,67.058,53.118,25.411,25.411,0,0,0,42.706,36.765,24.822,24.822,0,0,0,17.118,60.294,19.765,19.765,0,0,0,0,79.235,19.941,19.941,0,0,0,19.588,98.706Z" fill="url(#b)"/>
+  <circle cx="81" cy="79.247" r="19" fill="url(#c)"/>
+  <rect x="66.547" y="77.911" width="3.597" height="2.672" fill="#fff"/>
+  <rect x="91.857" y="77.911" width="3.597" height="2.672" fill="#fff"/>
+  <path d="M81.916,87.316V81.642H76.1V71.189l-3.311.02a2.7,2.7,0,0,0-2.679,2.715l.072,10.79h0a2.7,2.7,0,0,0,2.7,2.679H72.9" fill="#fff"/>
+  <path d="M80.264,71.179v6.3h5.819v9.833l3.13-.022a2.7,2.7,0,0,0,2.679-2.715l-.071-10.79h0a2.7,2.7,0,0,0-2.7-2.68h-.018" fill="#fff"/>
+  <g>
+    <circle cx="77.117" cy="77.207" r="19.766" fill="#fff"/>
+    <path d="M77.117,60.442A16.766,16.766,0,1,1,60.351,77.207,16.765,16.765,0,0,1,77.117,60.442m0-6A22.766,22.766,0,1,0,99.882,77.207,22.791,22.791,0,0,0,77.117,54.442Z" fill="#212121"/>
+  </g>
+  <g>
+    <rect x="62.968" y="75.996" width="3.607" height="2.68" fill="#76bc2d"/>
+    <rect x="88.348" y="75.996" width="3.607" height="2.68" fill="#76bc2d"/>
+    <path d="M78.38,85.428V79.737H72.545V69.255l-3.32.02A2.7,2.7,0,0,0,66.539,72l.072,10.82h0a2.707,2.707,0,0,0,2.7,2.687h.018" fill="#76bc2d"/>
+    <path d="M76.724,69.245v6.314h5.835V85.42L85.7,85.4a2.7,2.7,0,0,0,2.687-2.723l-.072-10.82h0a2.708,2.708,0,0,0-2.7-2.687h-.018" fill="#76bc2d"/>
+  </g>
+</svg>

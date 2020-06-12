@@ -1,3 +1,5 @@
+# run from top level folder .\scripts\icon-list.ps1
+
 ls icons `
     | select Name `
     | %{ echo "$($_.Name)" >> icon-list.txt }
